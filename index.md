@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# TankzMatch
 
-You can use the [editor on GitHub](https://github.com/Rev2106/TankzMatch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Capstone project at Westwood College for the Game Software Development program in 2007.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Developed using a game engine originally coded for the book "Programming a Multiplayer FPS in DirectX" by Vaughn Young.
 
-### Markdown
+## Controls
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- WASD = move your tank forward, back, and turn left and right
+- Left mouse button = shoot
+- Mouse = turn turret
+- TAB = show leaderboard
+- V = toggle view between 3rd-person and top-down
+- R = respawn
+- K = self-kill
+- Plus = add bots
+- Minus = subtract bots
+- Enter = chat message
+- F1 = exit game
 
-```markdown
-Syntax highlighted code block
+## Screenshots
 
-# Header 1
-## Header 2
-### Header 3
+![tankzmatch1](https://user-images.githubusercontent.com/7635112/120597669-30a08a80-c3fa-11eb-8638-c0b55ac5799e.jpg)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rev2106/TankzMatch/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![tankzmatch2](https://user-images.githubusercontent.com/7635112/120597697-3a29f280-c3fa-11eb-9900-849f5f1fefcc.jpg)
